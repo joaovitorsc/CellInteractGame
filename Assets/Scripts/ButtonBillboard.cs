@@ -11,6 +11,7 @@ public class ButtonBillboard : MonoBehaviour
     }
     private void Update()
     {
-        transform.LookAt(Camera.transform.position * -1 );
+        transform.LookAt(Camera.transform,Vector3.up);
+        transform.Rotate(0, 180, 0);
     }
 }

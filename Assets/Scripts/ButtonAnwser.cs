@@ -17,9 +17,11 @@ public class ButtonAnwser : MonoBehaviour
         if (ButtonAnswer ==  quizManager.Answer)
         {
            quizManager.correctAnswer += 1;
+            FindObjectOfType<AudioManager>().Play("Correct");
         }
         else
         {
+            FindObjectOfType<AudioManager>().Play("Wrong");
             quizManager.wrongAnswer += 1;
         }
         quizManager.DrawQuestions();
