@@ -22,6 +22,7 @@ public class QuizManager : MonoBehaviour
     public string Answer;
     [SerializeField] TextMeshProUGUI CorrectText, WrongText;
     [HideInInspector] public int correctAnswer, wrongAnswer;
+    [SerializeField] int averageGrade;
 
     private void Start()
     {
@@ -47,7 +48,7 @@ public class QuizManager : MonoBehaviour
     }
     void CheckWinorLose()
     {
-        if (correctAnswer >= 7)
+        if (correctAnswer >= averageGrade)
         {
             PanelVictory.SetActive(true);
         }
