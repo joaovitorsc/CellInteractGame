@@ -25,6 +25,7 @@ Response Mechanic: To answer, the player must touch the correct organelle on the
 Assessment: After 11 questions, the system calculates performance. The student is "approved" if they achieve 7 or more correct answers.
 
 📊 Results and Validation
+
 Tests conducted with a group of 12 Biology undergraduate students demonstrated the tool's potential (on a scale of 1 to 5):
 Ease of interacting with the 3D cell: Average 4.0.
 Potential to assist in teaching cytology: Average 4.8.
