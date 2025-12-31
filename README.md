@@ -40,5 +40,7 @@ The project is currently under development, with the following improvements plan
 📝 Authors and Institutions
 
 João Vitor de Souza Chagas (UFF) - joaovsc@id.uff.br
+
 Wallace do Carmo Moraes (UFRJ) - wallacedcmoraes@ufrj.br
+
 Aura Conci (UFF) - aconci@id.uff.br
