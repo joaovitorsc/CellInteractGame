@@ -32,10 +32,15 @@ Potential to assist in teaching cytology: Average 4.8.
 Representation of organelles: Average 4.7.
 
 🛠️ Roadmap (Future Work)
+
 The project is currently under development, with the following improvements planned:
+
 [ ] Implementation of the plant cell.
+
 [ ] Expansion of the number of 3D-represented organelles.
+
 [ ] Increasing the complexity of challenges.
+
 [ ] Inclusion of Augmented Reality (AR) support.
 
 📝 Authors and Institutions
