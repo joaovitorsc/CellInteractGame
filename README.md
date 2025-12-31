@@ -2,6 +2,8 @@
 
 Cell Interact is an interactive educational game developed for mobile devices that utilizes three-dimensional models to assist in teaching cell biology. The project aims to overcome the limitations of traditional methods, such as 2D textbook figures and microscopy, by allowing undergraduate students to interact directly with a 3D animal cell.
 
+Paper link: https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/27848
+
 🎯 Objectives
 
 Provide a complementary methodological tool for teaching cytology.
